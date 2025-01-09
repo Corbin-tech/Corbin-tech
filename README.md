@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Corbin-tech
 - 👀 I’m interested in ... Computer Science
-- 🌱 I’m currently learning ... Website Development
+- 🌱 I’m currently learning ... Software Development
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... corbsjohnson@gmail.com
 - 😄 Pronouns: ... he/him
